@@ -34,8 +34,8 @@ st.pyplot(fig)
 # Info o autorovi
 if st.checkbox("O aplikaci a autorovi"):
     st.write("""
-    **Autor:** Jan Novák  
-    **Kontakt:** jan.novak@email.cz  
+    **Autor:** Martin Růžička  
+    **Kontakt:** martin1.ruzicka@seznam.cz  
     **Použité technologie:** Python, Streamlit, Matplotlib, FPDF  
     """)
 
